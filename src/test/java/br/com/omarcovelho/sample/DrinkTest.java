@@ -8,7 +8,7 @@ import static org.junit.Assert.assertTrue;
  * @author marprado - Marco Prado
  * @version 1.0 26/03/2021
  */
-class DrinkTest {
+public class DrinkTest {
 
     @Test
     public void testDrink() {
